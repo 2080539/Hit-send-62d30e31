@@ -1,0 +1,12 @@
+h2 {
+	color: blue;
+}
+li {
+	color: red;
+}
+body {
+	background-color: lightblue;
+}
+input  {
+	border-radius: 10px 100px / 120px;
+}
